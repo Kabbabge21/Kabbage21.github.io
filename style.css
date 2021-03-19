@@ -1,0 +1,40 @@
+h2{
+       font-size:40px;
+       color:#cea21e;
+       text-align:center;
+       }
+       h3{
+       font-size:30px;
+       color:#f6921e;
+       }
+       p{
+        font-size:22px
+       }
+       #mainContent{
+          width:80%;
+          margin:0 auto;
+          background-color: #EBEBEB;
+       }
+    .section1, .section2{
+    background-color:#20344f;
+    color:white;
+    padding:15px;
+    }
+    .section2{
+    background-color:#516176;
+    }
+    .section2{
+    background-color:#516176;
+    }
+    .icon{
+    width:10%;
+    height:10%;
+    float:left;
+    padding:20px;
+    padding-top:20px;
+    padding-right:20px;
+    }
+   a{
+       font-size:35px;
+       color:#fca103;
+   }
